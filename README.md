@@ -1,4 +1,4 @@
-RV MONITOR
+RV-MONITOR
 @author dirkans
 What is it?
 
@@ -10,5 +10,4 @@ Components:
 - Arduino UNO (probably will use ESP8266)
 - DHT11 x 2
 - Display LCD
-
 
